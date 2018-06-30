@@ -7,4 +7,5 @@
     I ran the tests like intended for the assignment
   
 3. Let us know if anything doesn't work as intended so your reviewers can know ahead of time
-sometimes an error will pop up that says "db.collection is not a function" i fixed it but its a problem i found with the code 
+sometimes an error will pop up that says "db.collection is not a function" i fixed it but its a problem i found with the code.
+Also it already runs the optimal number of paralel tasks
